@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">
+  Hello! 👋 I'm William 
+  <img src="https://tenor.com/view/is-a-party-blob-gif-18787335.gif" alt="Blob Dance" height="30px" />
+</h1>
 
-<!--
-**wwill24/wwill24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">🎓 Computer Science student at UCLA</h3>
+<h3 align="center">💻 Software Engineer Intern @ Amazon Web Services</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on a pantry management app with OCR to scan receipts and AI to generate recipes from inventory  
+- 🌱 I’m learning how to develop iOS apps to reach a wider range of users  
+- 🤔 Curious about my experiences? [Check out my resume](https://drive.google.com/file/d/1K8u-01UTPqDKmFCfBHDQj_ZOO-yj_8ja/view?usp=sharing)  
+- 📫 Reach me at **williamjunw@gmail.com**
+
+---
+
+<h3 align="left">🌐 Connect with me on social media:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/williamjunwu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+  </a>
+  <a href="https://instagram.com/wwill24" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
+  </a>
+  <a href="https://www.leetcode.com/wwill24" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwill24&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=wwill24&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+
