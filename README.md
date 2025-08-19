@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on a pantry management app with OCR to scan receipts and AI to generate recipes from inventory  
 - 🌱 I’m learning how to develop iOS apps to reach a wider range of users  
-- 🤔 Curious about my experiences? [Check out my resume](https://drive.google.com/file/d/1K8u-01UTPqDKmFCfBHDQj_ZOO-yj_8ja/view?usp=sharing)  
+- 🤔 Curious about my experiences? [Check out my resume](https://drive.google.com/file/d/1BM62rVSQa15Gxr7WseBlI5s8qEszLp1f/view?usp=sharing)  
 - 📫 Reach me at **williamjunw@gmail.com**
 
 ---
