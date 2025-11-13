@@ -5,7 +5,7 @@
 
 
 <h3 align="center">🎓 Computer Science student at UCLA</h3>
-<h3 align="center">💻 Software Engineer Intern @ Amazon Web Services</h3>
+<h3 align="center">💻 Software Development Engineer Intern @ Amazon Web Services</h3>
 
 ---
 
