@@ -5,13 +5,13 @@
 
 
 <h3 align="center">🎓 Computer Science student at UCLA</h3>
-<h3 align="center">💻 Software Development Engineer Intern @ Amazon Web Services</h3>
+<h3 align="center">💻 Software Development Engineer @ Amazon Web Services</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on a pantry management app with OCR to scan receipts and AI to generate recipes from inventory  
+- 🔭 I’m currently working as a full stack engineer for a concussion protocol and health monitoring app for students
 - 🌱 I’m learning how to develop iOS apps to reach a wider range of users  
 - 🤔 Curious about my experiences? [Check out my resume](https://drive.google.com/file/d/1BM62rVSQa15Gxr7WseBlI5s8qEszLp1f/view?usp=sharing)  
 - 📫 Reach me at **williamjunw@gmail.com**
